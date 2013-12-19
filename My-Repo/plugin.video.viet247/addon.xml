@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<addon id="plugin.video.viet247" version="1.1.4" name="Việt Nam Television 24/7" provider-name="K.A. Kanalei">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="viet247.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <language>en vi</language>
+    <summary lang="en">Viet Nam Television 24/7</summary>
+    <summary lang="vi">Việt Nam Television 24/7</summary>
+    <description lang="en">This plugin allows you to watch live TV channels from oversea and vietnam providers</description>
+    <description lang="vi">Xem trực tiếp các kênh truyền hình từ Việt Nam và hải ngoại.</description>
+    <disclaimer lang="en">We take no responsibility for the contents of the TV's program</disclaimer>
+    <disclaimer lang="vi">Chúng tôi hoàn toàn không chịu trách nhiệm về nội dung chương trình.</disclaimer>
+  </extension>
+</addon>

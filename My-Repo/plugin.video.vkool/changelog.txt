@@ -1,0 +1,6 @@
+10/18/13 1.0
+.0- Intial release
+
+10/22/2013 1.0.1 - Fix youtube error
+10/30/2013 1.0.2 - Fix Vkool Server's urls
+12/11/2013 1.0.4 - Fix Vkool Server's urls

@@ -1,0 +1,7 @@
+09/18/13 1.0
+.0- Intial release
+
+09/24/13 1.0.1-optimized source code
+10/07/2013 1.0.2-optimized source code 
+11/19/2013 1.0.3-fix youtube link error
+11/26/2013 1.0.4-fix status display on Index page

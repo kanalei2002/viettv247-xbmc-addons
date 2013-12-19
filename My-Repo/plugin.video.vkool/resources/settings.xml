@@ -1,0 +1,13 @@
+<settings>
+  <category label="General">
+    <setting id="whistory" type="bool" label="[B]Watch History[/B]" default="true"/>
+  </category>
+   
+  <category label="Auto-View">
+    <setting id="ga_time" type="text" label="GA Called" default="2000-01-01 00:00:00" visible="false"/>
+    <setting id="ga_visitor" type="text" label="GA visitor" default="" visible="false"/>
+    <setting id="auto-view" type="bool" label="Enable Autoview" default="false"/>
+    <setting id="movies-view" type="number" label="Movies View"  default="504" enable="!eq(-3,false)"/>
+    <setting id="default-view" type="number" label="Default View" default="50"/>
+  </category>
+</settings>

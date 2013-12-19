@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <string id="30000">WARNING :This plugin contains explicit adult material.</string>
+  <string id="30001">You may enter only if you are at least 18 years of age</string>
+  <string id="30002">or at least the legal age in the jurisdiction where</string>
+  <string id="30003">you reside or from which you access this content.</string>
+  <string id="30004">Exit</string>
+  <string id="30005">Enter</string>
+</strings>

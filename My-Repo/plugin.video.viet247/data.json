@@ -1,0 +1,1419 @@
+{
+  "version": "v1.3",
+  "sources": {
+    "vtc": {
+      "url": "rtmp://111.91.233.197/live",
+      "swfurl": "http://vtc.com.vn/player_6_10_2011.swf",
+      "pageurl": "http://vtc.com.vn/live",
+      "token": "",
+      "app": ""
+    },
+    "vtcnew": {
+      "url": "http://203.162.235.26/lives/origin02",
+      "swfurl": "",
+      "pageurl": "",
+      "token": "",
+      "app": ""
+    },  
+    "tv24": {
+      "url": "rtmpe://112.197.2.11:1935/live",
+      "swfurl": "http://tv24.vn/getflash.ashx",
+      "pageurl": "http://tv24.vn",
+      "token": "!3zxcvbnm4@",
+      "app": ""
+    },
+    "viettv247": {
+      "url": "rtmp://206.217.221.127",
+      "swfurl": "http://www.viettv24.com/player.swf",
+      "pageurl": "http://www.viettv24.com/main/?language=vi",
+      "token": "",
+      "app": ""
+    },
+    "viettv24": {
+      "url": "rtmp://evietmusic.com/liveStream",
+      "swfurl": "http://www.viettv24.com/player.swf",
+      "pageurl": "http://www.viettv24.com/main/?language=vi",
+      "token": "",
+      "app": ""
+    },  
+    "vietfacetx": {
+      "url": "http://vietface.yestech.vn:1935/channels",
+      "swfurl": "http://www.vftvhouston.com/html5/smartplayer.swf",
+      "pageurl": "http://www.vftvhouston.com/html5/index.html",
+      "token": "",
+      "app": ""
+    },
+    "sgtv": {
+      "url": "rtmp://74.63.219.99/sgvp",
+      "swfurl": "http://vietpho.com/ext/js/3/mediaplayer.swf",
+      "pageurl": "http://vietpho.com/online-channels.php?id=41&gID=0&page=1",
+      "token": "",
+      "app": ""
+    },
+    "vbstv": {
+      "url": "rtmp://74.63.219.99/vbsvp",
+      "swfurl": "http://vietpho.com/ext/js/3/mediaplayer.swf",
+      "pageurl": "http://vietpho.com/online-channels.php?id=6&gID=0&page=1",
+      "token": "",
+      "app": ""
+    },  
+    "ltsg": {
+      "url": "rtmp://stream.s15.cpanelservices.com/lstvlive/",
+      "swfurl": "http://vietpho.com/ext/js/3/mediaplayer.swf",
+      "pageurl": "http://vietpho.com/online-channels.php?id=2&gID=0&page=1",
+      "token": "",
+      "app": ""
+    }, 
+    "globaltvnet": {
+      "url": "rtmp://unirtmp.tulix.tv",
+      "swfurl": "http://www.streamwebtown.com/mediaplayer/player.swf",
+      "pageurl": "http://globaltvlive.net/IptvLive/GlobalChannels.htm",
+      "token": "",
+      "app": ""
+    },    
+    "lifetv": {
+      "url": "rtmp://115.146.123.94:1935/live",
+      "swfurl": "http://lifetv.vn/jwplayer/playerlifeTV.swf",
+      "pageurl": "http://lifetv.vn/",
+      "token": "",
+      "app": "live"
+    },
+    "vpoptv": {
+      "url": "rtmp://206.217.221.127/liveStream",
+      "swfurl": "http://www.viettv24.com/player.swf",
+      "pageurl": "http://www.viettv24.com/main/?language=vi",
+      "token": "",
+      "app": "liveStream"
+    },
+    "thvl1": {
+      "url": "rtmp://123.30.108.77/live/THVL1",
+      "swfurl": "http://www.streamwebtown.com/mediaplayer/player.swf",
+      "pageurl": "http://nguoiviet.tv/thvl1",
+      "token": "",
+      "app": "THVL1"
+    },
+    "thvl2": {
+      "url": "rtmp://123.30.108.77/live/THVL2",
+      "swfurl": "http://www.streamwebtown.com/mediaplayer/player.swf",
+      "pageurl": "http://nguoiviet.tv/thvl2",
+      "token": "",
+      "app": "THVL2"
+    },
+    "ct1": {
+      "url": "rtmp://113.161.204.167/live",
+      "swfurl": "http://player.longtailvideo.com/player.swf",
+      "pageurl": "http://www.tivi24h.com/2011/08/kenh-vtv-can-tho-1-vtv1-can-tho-truc.html",
+      "token": "",
+      "app": ""
+    },
+    "ct2": {
+      "url": "rtmp://113.161.204.168/live",
+      "swfurl": "http://player.longtailvideo.com/player.swf",
+      "pageurl": "http://www.tivi24h.com/2011/08/kenh-vtv-can-tho-2-vtv2-can-tho-truc.html",
+      "token": "",
+      "app": ""
+    },
+    "hn": {
+      "url": "rtmp://m35.megafun.vn/hctv",
+      "swfurl": "http://player.longtailvideo.com/player.swf",
+      "pageurl": "http://www.tivi24h.com/2009/12/xem-tivi-online-kenh-truyen-hinh-ha-noi.html",
+      "token": "",
+      "app": ""
+    },
+    "dn": {
+      "url": "rtmp://123.29.75.131/thdn",
+      "swfurl": "http://www.dnrtv.org.vn/static/js/flowplayer/flowplayer-3.2.7.swf",
+      "pageurl": "http://www.dnrtv.org.vn/",
+      "token": "",
+      "app": ""
+    }, 
+    "qn": {
+      "url": "rtmp://m35.megafun.vn/hctv",
+      "swfurl": "http://megafun.vn/common/player/_player.swf",
+      "pageurl": "http://qtv.vn/channel/5171",
+      "token": "",
+      "app": ""
+    }, 
+    "drt": {
+      "url": "rtmp://222.255.167.159/live",
+      "swfurl": "http://player.longtailvideo.com/player.swf",
+      "pageurl": "http://www.tivi24h.com/2011/08/kenh-drt1-hd-online-nang-1-truc-tuyen.html",
+      "token": "",
+      "app": ""
+    },   
+    "hg": {
+      "url": "rtmp://115.78.160.29/live",
+      "swfurl": "http://player.longtailvideo.com/player.swf",
+      "pageurl": "http://www.tivi24h.com/2012/05/truyen-hinh-hau-giang-xem-tivi-hau.html",
+      "token": "",
+      "app": ""
+    },
+    "vt": {
+      "url": "rtmp://113.163.216.24/live",
+      "swfurl": "http://player.longtailvideo.com/player.swf",
+      "pageurl": "http://www.tivi24h.com/2009/11/kenh-vung-tau.html",
+      "token": "",
+      "app": ""
+    }, 
+    "tth": {
+      "url": "rtmp://118.69.176.149/live",
+      "swfurl": "http://player.longtailvideo.com/player.swf",
+      "pageurl": "http://www.tivi24h.com/2011/09/kenh-trt1-hd-thua-thien-hue-online.html",
+      "token": "",
+      "app": ""
+    },
+    "py": {
+      "url": "rtmp://113.161.4.102/live",
+      "swfurl": "http://player.longtailvideo.com/player.swf",
+      "pageurl": "http://www.tivi24h.com/2012/05/truyen-hinh-phu-yen-vtv-phu-yen.html",
+      "token": "",
+      "app": ""
+    }, 
+    "bp": {
+      "url": "rtmp://113.161.180.136/live",
+      "swfurl": "http://plugins.longtailvideo.com/5/hd/hd.swf",
+      "pageurl": "http://www.tivi24h.com/2012/05/truyen-hinh-binh-phuoc-kenh-bptv2-truc.html",
+      "token": "",
+      "app": ""
+    }, 
+    "nct": {
+      "url": "rtmp://123.30.134.108/live",
+      "swfurl": "http://plugins.longtailvideo.com/5/hd/hd.swf",
+      "pageurl": "http://www.tivi24h.com/2012/07/kenh-nhac-cua-tui-kenh-nct-truc-tuyen.html",
+      "token": "",
+      "app": ""
+    },
+    "xunghe": {
+      "url": "rtmp://118.69.176.149/live",
+      "swfurl": "http://tv.xunghe.vn/player.swf",
+      "pageurl": "http://tv.xunghe.vn/?tab=Truyen-Hinh&xem=trt1-hue",
+      "token": "",
+      "app": ""
+    }
+  },
+  "channels": {
+    "vtv1": {
+      "title": "VTV1",
+      "logo": "http://www.viettv247.com/logos/vtv1.png",
+      "desc": "Thông tin tổng hợp",
+      "src": {
+        "id": "vtc",
+        "playpath": "vtv11",
+        "referer": "VTV1/15"
+      }
+    },
+    "vtv2": {
+      "title": "VTV2",
+      "logo": "http://www.viettv247.com/logos/vtv2.png",
+      "desc": "Khoa học, Giáo dục",
+      "src": {
+        "id": "vtc",
+        "playpath": "vtv2",
+        "referer": "VTV2/23"
+      }
+    },
+    "vtv3": {
+      "title": "VTV3",
+      "logo": "http://www.viettv247.com/logos/vtv3.png",
+      "desc": "Thể thao, Giải trí, Thông tin Kinh tế",
+      "src": {
+        "id": "vtc",
+        "playpath": "vtv31",
+        "referer": "VTV3/3"
+      }
+    },
+    "vtv4": {
+      "title": "VTV4",
+      "logo": "http://www.viettv247.com/logos/vtv4.png",
+      "desc": "Kênh cho người Việt Nam ở nước ngoài",
+      "src": {
+        "id": "vtc",
+        "playpath": "vtv4",
+        "referer": "VTV4/2"
+      }
+    },
+    "vtc1": {
+      "title": "VTC1",
+      "logo": "http://www.viettv247.com/logos/vtc1.png",
+      "desc": "Thời sự tổng hợp",
+      "src": {
+        "id": "vtc",
+        "playpath": "vtc11",
+        "referer": "VTC1/10"
+      }
+    },
+    "vtc2": {
+      "title": "VTC2",
+      "logo": "http://www.viettv247.com/logos/vtc2.png",
+      "desc": "Khoa học, Công nghệ",
+      "src": {
+        "id": "vtc",
+        "playpath": "vtc21",
+        "referer": "VTC2/11"
+      }
+    },
+    "vtc3": {
+      "title": "VTC3",
+      "logo": "http://www.lyngsat-logo.com/logo/tv/vv/vtc_3.jpg",
+      "desc": "Thể Thao",
+      "src": {
+        "id": "vtcnew",
+        "playpath": "vtc3sd.isml/vtc3sd.m3u8",
+        "referer": ""
+      }
+    },
+    "vtc4": {
+      "title": "VTC4",
+      "logo": "http://www.lyngsat-logo.com/logo/tv/vv/vtc_4.jpg",
+      "desc": "Yeah1 Family",
+      "src": {
+        "id": "vtcnew",
+        "playpath": "vtc4sd.isml/vtc4sd.m3u8",
+        "referer": ""
+      }
+    }, 
+    "vtc5": {
+      "title": "VTC5",
+      "logo": "http://www.lyngsat-logo.com/logo/tv/vv/vtc_5.jpg",
+      "desc": "Giải Trí",
+      "src": {
+        "id": "vtcnew",
+        "playpath": "vtc5sd.isml/vtc5sd.m3u8",
+        "referer": ""
+      }
+    }, 
+    "vtc6": {
+      "title": "VTC6",
+      "logo": "http://www.lyngsat-logo.com/logo/tv/vv/vtc_6.jpg",
+      "desc": "Phim",
+      "src": {
+        "id": "vtcnew",
+        "playpath": "vtc6sd.isml/vtc6sd.m3u8",
+        "referer": ""
+      }
+    },     
+    "vtc10": {
+      "title": "VTC10",
+      "logo": "http://www.viettv247.com/logos/vtc10.png",
+      "desc": "Kênh Văn hóa Việt",
+      "src": {
+        "id": "vtc",
+        "playpath": "vtc101",
+        "referer": "VTC10/22"
+      }
+    },
+    "htv7": {
+      "title": "HTV7",
+      "logo": "http://www.viettv247.com/logos/htv7.png",
+      "desc": "Thông tin, Giải trí, Thể thao",
+      "src": {
+        "id": "vtc",
+        "playpath": "htv7",
+        "referer": ""
+      }
+    },
+    "htv9": {
+      "title": "HTV9",
+      "logo": "http://www.viettv247.com/logos/htv9.png",
+      "desc": "Chính trị, Xã hội, Văn hóa",
+      "src": {
+        "id": "vtc",
+        "playpath": "htv91",
+        "referer": ""
+      }
+    },
+    "hn1": {
+      "title": "HN1",
+      "logo": "",
+      "desc": "Hà Nội 1",
+      "src": {
+        "id": "vtc",
+        "playpath": "hanoi11",
+        "referer": ""
+      }
+    },
+    "vtv6": {
+      "title": "VTV6",
+      "logo": "http://www.viettv247.com/logos/vtv6.png",
+      "desc": "Kênh cho Thanh, thiếu niên",
+      "src": {
+        "id": "tv24",
+        "playpath": "vtv6.stream",
+        "referer": ""
+      }
+    },
+    "vtv9": {
+      "title": "VTV9",
+      "logo": "http://www.viettv247.com/logos/vtv9.png",
+      "desc": "Kênh cho Khán giả miền Nam",
+      "src": {
+        "id": "tv24",
+        "playpath": "vtv9.stream",
+        "referer": ""
+      }
+    },
+    "antv": {
+      "title": "ANTV",
+      "logo": "http://www.viettv247.com/logos/antv.png",
+      "desc": "Kênh An ninh Nhân dân",
+      "src": {
+        "id": "tv24",
+        "playpath": "antv.stream",
+        "referer": ""
+      }
+    },
+    "sctv1": {
+      "title": "SCTV1",
+      "logo": "http://www.viettv247.com/logos/sctv.png",
+      "desc": "Hài",
+      "src": {
+        "id": "tv24",
+        "playpath": "SDsctv1.stream",
+        "referer": ""
+      }
+    },
+    "sctv2": {
+      "title": "SCTV2",
+      "logo": "http://www.viettv247.com/logos/sctv.png",
+      "desc": "Yan TV: Âm nhạc quốc tế",
+      "src": {
+        "id": "tv24",
+        "playpath": "SDsctv2.stream",
+        "referer": ""
+      }
+    },
+    "sctv3": {
+      "title": "SCTV3",
+      "logo": "http://www.viettv247.com/logos/sctv.png",
+      "desc": "Sao TV: Thiếu nhi",
+      "src": {
+        "id": "tv24",
+        "playpath": "SDsctv3.stream",
+        "referer": ""
+      }
+    },
+    "sctv4": {
+      "title": "SCTV4",
+      "logo": "http://www.viettv247.com/logos/sctv.png",
+      "desc": "Giải trí tổng hợp",
+      "src": {
+        "id": "tv24",
+        "playpath": "SDsctv4.stream",
+        "referer": ""
+      }
+    },
+    "sctv5": {
+      "title": "SCTV5",
+      "logo": "http://www.viettv247.com/logos/sctv.png",
+      "desc": "Shopping TV: Mua sắm SCJ",
+      "src": {
+        "id": "tv24",
+        "playpath": "SDsctv5.stream",
+        "referer": ""
+      }
+    },
+    "sctv6": {
+      "title": "SCTV6",
+      "logo": "http://www.viettv247.com/logos/sctv.png",
+      "desc": "Sóng nhạc",
+      "src": {
+        "id": "tv24",
+        "playpath": "SDsctv6.stream",
+        "referer": ""
+      }
+    },
+    "sctv7": {
+      "title": "SCTV7",
+      "logo": "http://www.viettv247.com/logos/sctv.png",
+      "desc": "Sân khấu, Văn nghệ tổng hợp",
+      "src": {
+        "id": "tv24",
+        "playpath": "SDsctv7.stream",
+        "referer": ""
+      }
+    },
+    "sctv8": {
+      "title": "SCTV8",
+      "logo": "http://www.viettv247.com/logos/sctv.png",
+      "desc": "Thông tin Kinh tế, Thị trường",
+      "src": {
+        "id": "tv24",
+        "playpath": "SDsctv8.stream",
+        "referer": ""
+      }
+    },
+    "sctv9": {
+      "title": "SCTV9",
+      "logo": "http://www.viettv247.com/logos/sctv.png",
+      "desc": "Phim châu Á",
+      "src": {
+        "id": "tv24",
+        "playpath": "SDsctv9.stream",
+        "referer": ""
+      }
+    },
+    "sctv10": {
+      "title": "SCTV10",
+      "logo": "http://www.viettv247.com/logos/sctv.png",
+      "desc": "Home Shopping Network: Mua sắm",
+      "src": {
+        "id": "tv24",
+        "playpath": "SDsctv10.stream",
+        "referer": ""
+      }
+    },
+    "sctv11": {
+      "title": "SCTV11",
+      "logo": "http://www.viettv247.com/logos/sctv.png",
+      "desc": "Hát trên truyền hình",
+      "src": {
+        "id": "tv24",
+        "playpath": "SDsctv11.stream",
+        "referer": ""
+      }
+    },
+    "sctv12": {
+      "title": "SCTV12",
+      "logo": "http://www.viettv247.com/logos/sctv.png",
+      "desc": "Du lịch, Khám phá",
+      "src": {
+        "id": "tv24",
+        "playpath": "SDsctv12.stream",
+        "referer": ""
+      }
+    },
+    "sctv13": {
+      "title": "SCTV13",
+      "logo": "http://www.viettv247.com/logos/sctv.png",
+      "desc": "Phụ nữ và Gia đình",
+      "src": {
+        "id": "tv24",
+        "playpath": "SDsctv13.stream",
+        "referer": ""
+      }
+    },
+    "sctv14": {
+      "title": "SCTV14",
+      "logo": "http://www.viettv247.com/logos/sctv.png",
+      "desc": "Phim Việt",
+      "src": {
+        "id": "tv24",
+        "playpath": "SDsctv14.stream",
+        "referer": ""
+      }
+    },
+    "sctv15": {
+      "title": "SCTV15",
+      "logo": "http://www.viettv247.com/logos/sctv.png",
+      "desc": "Thể thao",
+      "src": {
+        "id": "tv24",
+        "playpath": "SDsctv15.stream",
+        "referer": ""
+      }
+    },
+    "sctv16": {
+      "title": "SCTV16",
+      "logo": "http://www.viettv247.com/logos/sctv.png",
+      "desc": "Phim truyện nước ngoài",
+      "src": {
+        "id": "tv24",
+        "playpath": "SDsctv16.stream",
+        "referer": ""
+      }
+    },
+    "sctv17": {
+      "title": "SCTV17",
+      "logo": "http://www.viettv247.com/logos/sctv.png",
+      "desc": "Phim tổng hợp",
+      "src": {
+        "id": "tv24",
+        "playpath": "SDsctv17.stream",
+        "referer": ""
+      }
+    },
+    "sctv18": {
+      "title": "SCTV18",
+      "logo": "http://www.viettv247.com/logos/sctv.png",
+      "desc": "Thể thao",
+      "src": {
+        "id": "tv24",
+        "playpath": "SDsctv18.stream",
+        "referer": ""
+      }
+    },
+    "vinhlong1": {
+      "title": "THVL1",
+      "logo": "http://www.viettv247.com/logos/thvl-1.jpg",
+      "desc": "Truyền Hình Vĩnh Long 1",
+      "src": {
+        "id": "thvl1",
+        "playpath": "THVL1",
+        "referer": ""
+      }
+    },
+    "vinhlong2": {
+      "title": "THVL2",
+      "logo": "http://www.viettv247.com/logos/thvl-2.jpg",
+      "desc": "Truyền Hình Vĩnh Long 2",
+      "src": {
+        "id": "thvl2",
+        "playpath": "THVL2",
+        "referer": ""
+      }
+    },
+    "cantho1": {
+      "title": "VTV1CANTHO",
+      "logo": "http://www.viettv247.com/logos/vtv1-cantho.jpg",
+      "desc": "Truyền Hình Cần Thơ 1",
+      "src": {
+        "id": "ct1",
+        "playpath": "livestream",
+        "referer": ""
+      }
+    },
+    "cantho2": {
+      "title": "VTV2CANTHO",
+      "logo": "http://www.viettv247.com/logos/vtv2-cantho.jpg",
+      "desc": "Truyền Hình Cần Thơ 2",
+      "src": {
+        "id": "ct2",
+        "playpath": "livestream",
+        "referer": ""
+      }
+    }, 
+    "hanoi1": {
+      "title": "HN1",
+      "logo": "http://www.viettv247.com/logos/hn1.jpg",
+      "desc": "Truyền Hình Hà Nội 1",
+      "src": {
+        "id": "hn",
+        "playpath": "vstv011",
+        "referer": ""
+      }
+    },
+    "hanoi2": {
+      "title": "HN2",
+      "logo": "http://www.viettv247.com/logos/hn2.jpg",
+      "desc": "Truyền Hình Hà Nội 2",
+      "src": {
+        "id": "hn",
+        "playpath": "vstv012",
+        "referer": ""
+      }
+    },
+    "dongnai1": {
+      "title": "DN1",
+      "logo": "http://www.viettv247.com/logos/dong-nai-1.jpg",
+      "desc": "Truyền Hình Đồng Nai 1",
+      "src": {
+        "id": "dn",
+        "playpath": "dn1.stream",
+        "referer": ""
+      }
+    },
+    "dongnai2": {
+      "title": "DN2",
+      "logo": "http://www.viettv247.com/logos/dong-nai-2.jpg",
+      "desc": "Truyền Hình Đồng Nai 2",
+      "src": {
+        "id": "dn",
+        "playpath": "dn2.stream",
+        "referer": ""
+      }
+    },
+    "quangninh1": {
+      "title": "QTV1",
+      "logo": "http://www.viettv247.com/logos/qtv1.png",
+      "desc": "Truyền Hình Quãng Ninh 1",
+      "src": {
+        "id": "qn",
+        "playpath": "vstv020",
+        "referer": ""
+      }
+    }, 
+    "quangninh3": {
+      "title": "QTV3",
+      "logo": "http://www.viettv247.com/logos/qtv3.jpg",
+      "desc": "Truyền Hình Quãng Ninh 3",
+      "src": {
+        "id": "qn",
+        "playpath": "vstv021",
+        "referer": ""
+      }
+    }, 
+    "danang": {
+      "title": "DRT",
+      "logo": "http://www.viettv247.com/logos/DRT1-Da-Nang.jpg",
+      "desc": "Truyền Hình Đà Nẵng",
+      "src": {
+        "id": "drt",
+        "playpath": "livestream",
+        "referer": ""
+      }
+    },
+    "haugiang": {
+      "title": "HGV",
+      "logo": "http://www.viettv247.com/logos/Hau-Giang.jpg",
+      "desc": "Truyền Hình Hậu Giang",
+      "src": {
+        "id": "hg",
+        "playpath": "thhg",
+        "referer": ""
+      }
+    }, 
+    "vungtau": {
+      "title": "BRT",
+      "logo": "http://www.viettv247.com/logos/VungTau-BRT.jpg",
+      "desc": "Truyền Hình Vũng Tàu",
+      "src": {
+        "id": "vt",
+        "playpath": "livestream",
+        "referer": ""
+      }
+    },
+    "thuathienhue": {
+      "title": "TRT",
+      "logo": "http://www.viettv247.com/logos/ThuaThienHue-TRT.jpg",
+      "desc": "Truyền Hình Thừa Thiên Huế",
+      "src": {
+        "id": "tth",
+        "playpath": "trt",
+        "referer": ""
+      }
+    },
+    "phuyen": {
+      "title": "VTVPHUYEN",
+      "logo": "http://www.viettv247.com/logos/vtv_phu_yen.jpg",
+      "desc": "Truyền Hình Phú Yên",
+      "src": {
+        "id": "py",
+        "playpath": "vtvphuyen.tv",
+        "referer": ""
+      }
+    }, 
+    "binhphuoc1": {
+      "title": "BPTV1",
+      "logo": "http://www.viettv247.com/logos/thbp1.gif",
+      "desc": "Truyền Hình Bình Phước 1",
+      "src": {
+        "id": "bp",
+        "playpath": "thbp1.tv",
+        "referer": ""
+      }
+    },
+    "binhphuoc2": {
+      "title": "BPTV2",
+      "logo": "http://www.viettv247.com/logos/thbp2.gif",
+      "desc": "Truyền Hình Bình Phước 2",
+      "src": {
+        "id": "bp",
+        "playpath": "thbp2.tv",
+        "referer": ""
+      }
+    }, 
+    "nhaccuatui": {
+      "title": "NCT",
+      "logo": "http://www.viettv247.com/logos/nhaccuatui.jpg",
+      "desc": "Nhạc Của Tui Online",
+      "src": {
+        "id": "nct",
+        "playpath": "nctlive",
+        "referer": ""
+      }
+    },
+    "vfcali": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/vfca.jpg",
+      "desc": "Vietface California",
+      "src": {
+        "id": "viettv247",
+        "playpath": "vietface/vface_1",
+        "referer": ""
+      }
+    },
+    "vfdirecttv": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/vfsat.jpg",
+      "desc": "Vietface Satellite",
+      "src": {
+        "id": "viettv247",
+        "playpath": "vietface/vfaces_1",
+        "referer": ""
+      }
+    },
+    "vfhouston": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/vftx.jpg",
+      "desc": "Vietface Houston",
+      "src": {
+        "id": "vietfacetx",
+        "playpath": "vietface.240p",
+        "referer": ""
+      }
+    },
+     "vinamax": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/vftx2.jpg",
+      "desc": "Vinamax Houston",
+      "src": {
+        "id": "vietfacetx",
+        "playpath": "vietface2.240p",
+        "referer": ""
+      }
+    }, 
+     "saigontv": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/sgtv.jpg",
+      "desc": "Saigon TV",
+      "src": {
+        "id": "sgtv",
+        "playpath": "myStream.sdp",
+        "referer": ""
+      }
+    },
+    "littlesgtv": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/littlesg.jpg",
+      "desc": "Little Saigon TV",
+      "src": {
+        "id": "ltsg",
+        "playpath": "livestream",
+        "referer": ""
+      }
+    }, 
+    "vna": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/vna.jpg",
+      "desc": "Vietnam America TV",
+      "src": {
+        "id": "viettv247",
+        "playpath": "vnatv/vnatv_1",
+        "referer": ""
+      }
+    },
+    "hai247": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/Hai247.jpg",
+      "desc": "Hài 24/7",
+      "src": {
+        "id": "viettv247",
+        "playpath": "liveStream/hai_1",
+        "referer": ""
+      }
+    },
+    "set": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/set.jpg",
+      "desc": "Saigon Entertainment Television",
+      "src": {
+        "id": "viettv247",
+        "playpath": "set/set_1",
+        "referer": ""
+      }
+    },
+    "vbs": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/vbs.jpg",
+      "desc": "Vietnamese Broadcasting Services",
+      "src": {
+        "id": "vbstv",
+        "playpath": "myStream.sdp",
+        "referer": ""
+      }
+    }, 
+    "vietpower": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/vptv.jpg",
+      "desc": "Viet Power TV",
+      "src": {
+        "id": "globaltvnet",
+        "playpath": "globaltv3/myStream.sdp",
+        "referer": ""
+      }
+    },
+    "globaltv": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/globaltv.jpg",
+      "desc": "Global TV",
+      "src": {
+        "id": "globaltvnet",
+        "playpath": "globaltv8/myStream.sdp",
+        "referer": ""
+      }
+    }, 
+    "nhattruong": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/nhattruong.jpg",
+      "desc": "Nhật Trường TV",
+      "src": {
+        "id": "viettv247",
+        "playpath": "nhattruong/ttt_1",
+        "referer": ""
+      }
+    },
+    "vietnews": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/vietnews.jpg",
+      "desc": "Việt News",
+      "src": {
+        "id": "viettv247",
+        "playpath": "vietpower/vpower_1",
+        "referer": ""
+      }
+    },  
+    "vietop": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/Vietop.jpg",
+      "desc": "VietTop Television",
+      "src": {
+        "id": "viettv247",
+        "playpath": "vienthao/vietop_1",
+        "referer": ""
+      }
+    }, 
+   "tuoithantien": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/Tuoi_Than_Tien.jpg",
+      "desc": "Tuổi Thần Tiên",
+      "src": {
+        "id": "viettv247",
+        "playpath": "liveStream/ttt_1",
+        "referer": ""
+      }
+    },     
+    "viet24": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/VietTV24.jpg",
+      "desc": "Việt TV 24",
+      "src": {
+        "id": "viettv24",
+        "playpath": "viettv24_1",
+        "referer": ""
+      }
+    },
+    "cailuong": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/skcd.jpg",
+      "desc": "Sân Khấu & Cuộc Đời",
+      "src": {
+        "id": "viettv24",
+        "playpath": "cailuong_1",
+        "referer": ""
+      }
+    },      
+    "ibc": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/ibc.jpg",
+      "desc": "IBC",
+      "src": {
+        "id": "globaltvnet",
+        "playpath": "globaltv15/myStream.sdp",
+        "referer": ""
+      }
+    },
+    "cnbuystv": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/cnbuys.jpg",
+      "desc": "CN Buys TV",
+      "src": {
+        "id": "globaltvnet",
+        "playpath": "globaltv2/myStream.sdp",
+        "referer": ""
+      }
+    }, 
+    "phoviet": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/phoviet.jpg",
+      "desc": "Phố Việt",
+      "src": {
+        "id": "globaltvnet",
+        "playpath": "globaltv9/myStream.sdp",
+        "referer": ""
+      }
+    },
+    "vnbc": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/vnbc.jpg",
+      "desc": "VNBC",
+      "src": {
+        "id": "globaltvnet",
+        "playpath": "globaltv6/myStream.sdp",
+        "referer": ""
+      }
+    },
+    "anbinhhanhphuc": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/AnBinhHanhPhuc.jpg",
+      "desc": "An Bình Hạnh Phúc",
+      "src": {
+        "id": "globaltvnet",
+        "playpath": "globaltv11/myStream.sdp",
+        "referer": ""
+      }
+    }, 
+    "tubi": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/tubi.jpg",
+      "desc": "Từ Bi",
+      "src": {
+        "id": "globaltvnet",
+        "playpath": "globaltv4/myStream.sdp",
+        "referer": ""
+      }
+    },    
+    "phattubi": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/phattubi.jpg",
+      "desc": "Phật Từ Bi",
+      "src": {
+        "id": "viettv247",
+        "playpath": "liveStream/ptb_1",
+        "referer": ""
+      }
+    },
+    "vmusic": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/Vmusic.jpg",
+      "desc": "Vmusic",
+      "src": {
+        "id": "viettv247",
+        "playpath": "liveStream/mtv_1",
+        "referer": ""
+      }
+    },
+    "vpop": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/vpoptv.jpg",
+      "desc": "Kênh âm nhạc đặc sắc",
+      "src": {
+        "id": "viettv247",
+        "playpath": "liveStream/vpoptv_1",
+        "referer": ""
+      }
+    },        
+    "esltv": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/esl.jpg",
+      "desc": "ESL TV",
+      "src": {
+        "id": "globaltvnet",
+        "playpath": "globaltv7/myStream.sdp",
+        "referer": ""
+      }
+    },
+    "vmtv": {
+      "title": "",
+      "logo": "http://www.viettv247.com/logos/vmtv.jpg",
+      "desc": "VMTV",
+      "src": {
+        "id": "globaltvnet",
+        "playpath": "globaltv5/myStream.sdp",
+        "referer": ""
+      }
+    },  
+    "lifetv": {
+      "title": "LifeTV",
+      "logo": "http://www.viettv247.com/logos/lifetv.png",
+      "desc": "Lối sống và sức khỏe",
+      "src": {
+        "id": "lifetv",
+        "playpath": "Stream1",
+        "referer": ""
+      }
+    },
+    "vpoptv": {
+      "title": "Vpop TV",
+      "logo": "http://www.viettv247.com/logos/vpoptv.png",
+      "desc": "Kênh âm nhạc đặc sắc",
+      "src": {
+        "id": "vpoptv",
+        "playpath": "vpoptv_1",
+        "referer": ""
+      }
+    },
+    "trt1": {
+      "title": "TRT1",
+      "logo": "",
+      "desc": "Thừa Thiên Huế",
+      "src": {
+        "id": "xunghe",
+        "playpath": "trt",
+        "referer": ""
+      }
+    }
+  },
+  "directories": {
+    "root": {
+      "title": "root",
+      "logo": "",
+      "desc": "root menu",
+      "content": [
+        {
+          "type": "dir",
+          "id": "haingoai"
+        },
+        {
+          "type": "dir",
+          "id": "trongnuoc"
+        }
+      ]
+    },
+    "trongnuoc": {
+      "title": "",
+      "logo": "sctv.png",
+      "desc": "Đài Truyền Hình Trong Nước",
+      "content": [
+        {
+          "type": "chn",
+          "id": "vtv1"
+        },
+        {
+          "type": "chn",
+          "id": "vtv2"
+        },
+        {
+          "type": "chn",
+          "id": "vtv3"
+        },
+        {
+          "type": "chn",
+          "id": "vtv4"
+        },
+        {
+          "type": "chn",
+          "id": "vtv6"
+        },
+        {
+          "type": "chn",
+          "id": "vtv9"
+        },
+        {
+          "type": "chn",
+          "id": "antv"
+        },
+        {
+          "type": "chn",
+          "id": "vtc1"
+        },
+        {
+          "type": "chn",
+          "id": "vtc2"
+        },
+        {
+          "type": "chn",
+          "id": "vtc10"
+        },
+        {
+          "type": "chn",
+          "id": "lifetv"
+        },
+        {
+          "type": "chn",
+          "id": "vpoptv"
+        },
+        {
+          "type": "chn",
+          "id": "sctv1"
+        },
+        {
+          "type": "chn",
+          "id": "sctv2"
+        },
+        {
+          "type": "chn",
+          "id": "sctv3"
+        },
+        {
+          "type": "chn",
+          "id": "sctv4"
+        },
+        {
+          "type": "chn",
+          "id": "sctv5"
+        },
+        {
+          "type": "chn",
+          "id": "sctv6"
+        },
+        {
+          "type": "chn",
+          "id": "sctv7"
+        },
+        {
+          "type": "chn",
+          "id": "sctv8"
+        },
+        {
+          "type": "chn",
+          "id": "sctv9"
+        },
+        {
+          "type": "chn",
+          "id": "sctv10"
+        },
+        {
+          "type": "chn",
+          "id": "sctv11"
+        },
+        {
+          "type": "chn",
+          "id": "sctv12"
+        },
+        {
+          "type": "chn",
+          "id": "sctv13"
+        },
+        {
+          "type": "chn",
+          "id": "sctv14"
+        },
+        {
+          "type": "chn",
+          "id": "sctv15"
+        },
+        {
+          "type": "chn",
+          "id": "sctv16"
+        },
+        {
+          "type": "chn",
+          "id": "sctv17"
+        },
+        {
+          "type": "chn",
+          "id": "sctv18"
+        },
+        {
+          "type": "chn",
+          "id": "vinhlong1"
+        },
+        {
+          "type": "chn",
+          "id": "vinhlong2"
+        },
+        {
+          "type": "chn",
+          "id": "cantho1"
+        },
+        {
+          "type": "chn",
+          "id": "cantho2"
+        },
+        {
+          "type": "chn",
+          "id": "hanoi1"
+        },
+        {
+          "type": "chn",
+          "id": "hanoi2"
+        },
+        {
+          "type": "chn",
+          "id": "dongnai1"
+        },
+        {
+          "type": "chn",
+          "id": "dongnai2"
+        },
+        {
+          "type": "chn",
+          "id": "quangninh1"
+        },
+        {
+          "type": "chn",
+          "id": "quangninh3"
+        },
+        {
+          "type": "chn",
+          "id": "danang"
+        },
+        {
+          "type": "chn",
+          "id":"haugiang"
+        },
+        {
+          "type": "chn",
+          "id":"vungtau"
+        },
+        {
+          "type": "chn",
+          "id":"thuathienhue"
+        },
+        {
+          "type": "chn",
+          "id":"phuyen"
+        },
+        {
+          "type": "chn",
+          "id":"binhphuoc1"
+        },
+        {
+          "type": "chn",
+          "id":"binhphuoc2"
+        },
+        {
+          "type": "chn",
+          "id":"nhaccuatui"
+        }
+      ]
+    },
+    "haingoai": {
+      "title": "",
+      "logo": "",
+      "desc": "Đài Truyền Hình Hải Ngoại",
+      "content": [
+        {
+          "type": "chn",
+          "id": "vfcali"
+        },
+        {
+          "type": "chn",
+          "id": "vfdirecttv"
+        },
+        {
+          "type": "chn",
+          "id": "vfhouston"
+        },
+        {
+          "type": "chn",
+          "id": "vinamax"
+        },
+        {
+          "type": "chn",
+          "id": "vna"
+        },
+        {
+          "type": "chn",
+          "id": "saigontv"
+        },
+        {
+          "type": "chn",
+          "id": "littlesgtv"
+        },
+        {
+          "type": "chn",
+          "id": "set"
+        },
+        {
+          "type": "chn",
+          "id": "vbs"
+        },
+        {
+          "type": "chn",
+          "id": "globaltv"
+        },
+        {
+          "type": "chn",
+          "id": "nhattruong"
+        },
+        {
+          "type": "chn",
+          "id": "vietnews"
+        },
+        {
+          "type": "chn",
+          "id": "viet24"
+        },
+        {
+          "type": "chn",
+          "id": "vietop"
+        },
+        {
+          "type": "chn",
+          "id": "ibc"
+        },
+        {
+          "type": "chn",
+          "id": "cnbuystv"
+        },
+        {
+          "type": "chn",
+          "id": "phoviet"
+        },
+        {
+          "type": "chn",
+          "id": "vnbc"
+        },
+        {
+          "type": "chn",
+          "id": "esltv"
+        },
+        {
+          "type": "chn",
+          "id": "anbinhhanhphuc"
+        },
+        {
+          "type": "chn",
+          "id": "tubi"
+        },
+        {
+          "type": "chn",
+          "id": "phattubi"
+        },
+        {
+          "type": "chn",
+          "id": "tuoithantien"
+        },
+        {          
+          "type": "chn",          
+          "id": "hai247"        
+        },
+        {          
+          "type": "chn",          
+          "id": "cailuong"        
+        },
+        {          
+          "type": "chn",          
+          "id": "vmusic"        
+        },
+        {          
+          "type": "chn",          
+          "id": "vpop"        
+        },
+        {          
+          "type": "chn",          
+          "id": "vmtv"        
+        }    
+      ]
+    },
+    "local": {
+      "title": "Local Stations",
+      "logo": "",
+      "desc": "Truyền hình Địa phương",
+      "content": [
+        {
+          "type": "chn",
+          "id": "htv7"
+        },
+        {
+          "type": "chn",
+          "id": "htv9"
+        },
+        {
+          "type": "chn",
+          "id": "hn1"
+        },
+        {
+          "type": "chn",
+          "id": "trt1"
+        }
+      ]
+    },
+    "oversea": {
+      "title": "Oversea Stations",
+      "logo": "",
+      "desc": "Truyền hình Hải ngoại",
+      "content": [
+        {
+          "type": "chn",
+          "id": "vtv1"
+        },
+        {
+          "type": "chn",
+          "id": "vtv2"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<addon id="plugin.video.sale24h" version="1.0.0" name="24Hrs New Movies" provider-name="K.A. Kanalei">
+  <requires>
+    <import addon="xbmc.python" version="2.0" />
+    <import addon="script.module.simplejson" />
+    <import addon="script.module.urlresolver" version="0.0.1"></import>
+    <import addon="script.module.t0mm0.common" version="1.1.0" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>sale24.vn</summary>
+    <description>Watch Asian adult movies from sale24h.vn</description>
+    <platform>all</platform>
+  </extension>
+</addon>
